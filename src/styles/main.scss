@@ -1,17 +1,8 @@
-/*! Primitive
-  by Tania Rascia */
-
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
-
-// Configuration
 @import 'base/variables';
 @import 'base/mixins';
-
-// Reset
 @import 'base/reset';
-
-// Components
 @import 'components/scaffolding';
 @import 'components/helpers';
 @import 'components/buttons';
@@ -20,9 +11,6 @@
 @import 'components/navigation';
 @import 'components/layout';
 @import 'components/new-moon';
-
-// Themes
-
 @import 'themes/dark';
 @import 'themes/404';
 

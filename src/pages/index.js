@@ -33,25 +33,19 @@ export default class Index extends Component {
               <p>
         Ben Tamer, evli ve bir çocuk babası olarak Eskişehir'de yaşıyorum. Commodore 64 dönemlerinden beri yazılım üretiyor, bilgi ve birikimlerimi paylaşmak adına tüm mecralarda yer almaya çalışıyorum.
         </p>
-        {/*    <p className="stack-mobile">
-          <Link className="button" to="/me">
-            About me
-          </Link>
+     <p className="stack-mobile">
+
           <a
             className="button"
-            href="https://taniarascia.substack.com"
+            href="https://tameryetim.substack.com"
             target="_blank"
             rel="noreferrer"
           >
-            Join newsletter
+            E-Mail Listesine Kayıt Olun
           </a>
       
-        </p>*/}
+        </p>
      
-
-
-
-
 
             </div>
             <div className="newsletter-section">

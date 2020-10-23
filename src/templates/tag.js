@@ -15,7 +15,7 @@ export default class TagTemplate extends Component {
         <Helmet title={`Posts tagged as "${tag}" – ${config.siteTitle}`} />
         <div className="container">
           <h1>
-            Posts tagged as <u>{tag}</u>
+            <u>{tag}</u> konulu taglar
           </h1>
           <PostListing postEdges={postEdges} />
         </div>
