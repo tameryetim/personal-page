@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://www.tameryetim.com.tr/sitemap.xml
