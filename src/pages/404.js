@@ -23,26 +23,26 @@ export default class NotFoundPage extends Component {
   render() {
     return (
       <Layout>
-        <Helmet title={`Page not found â€“ ${config.siteTitle}`} />
+        <Helmet title={`Page not found Ã¢Â€Â“ ${config.siteTitle}`} />
         <SEO />
         <div className="container">
           <div className="text-center">
             <h1>404</h1>
           </div>
           <p>
-           Hata Oluştu <span className="tania"></span> 404:
-           ilgili sayfa bulunamadı
+           Hata OluÅŸtu <span className="tania"></span> 404:
+           ilgili sayfa bulunamadÄ±
           </p>
           <div className="list">
             <p>
-              <span className="bullet">*</span> Mevcut uygulamayı sonlandırmak için herhangi bir bağlantıya tıklayın.
+              <span className="bullet">*</span> Mevcut uygulamayÄ± sonlandÄ±rmak iÃ§in herhangi bir baÄŸlantÄ±ya tÄ±klayÄ±n.
             </p>
             <p>
           
             </p>
           </div>
           <p className="text-right">
-            Devam etmek için herhangi bir bağlantıyı tıklayın<span className="blink">&#9608;</span>
+            Devam etmek iÃ§in herhangi bir baÄŸlantÄ±yÄ± tÄ±klayÄ±n<span className="blink">&#9608;</span>
           </p>
         </div>
       </Layout>
