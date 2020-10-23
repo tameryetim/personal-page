@@ -11,5 +11,7 @@ tags:
   - Steve Jobs
   - Jony Ive
 ---
-<iframe   width="100%" height="315" src="" src="https://www.youtube.com/embed/x6BW-i3qmww" frameborder="0"  style="overflow:hidden;height:100%;width:100%" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
+
+    <iframe src="https://www.youtube.com/embed/x6BW-i3qmww" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+
