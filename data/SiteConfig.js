@@ -14,7 +14,7 @@ const config = {
   siteDescription:
     'Hello, this\'s Tamer Yetim.',
   siteRss: '/rss.xml',
-  googleAnalyticsID: 'G-KSPHE31CLV',
+  googleAnalyticsID: 'G-8N23RZ672S',
   // userName: 'Charles',
   // userEmail: '',
   // userTwitter: '',
