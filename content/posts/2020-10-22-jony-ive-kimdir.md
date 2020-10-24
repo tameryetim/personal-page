@@ -15,17 +15,18 @@ tags:
 
 ## Jony Ive Kimdir? Apple Şirket Kültürü Nasıl Oluştu ?
 
- <center>
+<center>
     <iframe
         src="https://www.youtube.com/embed/x6BW-i3qmww"
         frameborder="0"
-        style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:410;width:60%;"
-        height="410"
-        width="60%"
+        style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:380;width:85%;"
+        height="380"
+        width="85%"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
     ></iframe>
 </center>
+
 
     
 
