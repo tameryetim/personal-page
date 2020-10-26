@@ -13,7 +13,7 @@ tags:
   - Peak Games
 ---
 
-## Oyun Geliştirme Süreçleri 1 - Fikir Nasıl Bulunur? ?
+## Oyun Geliştirme Süreçleri 1 - Fikir Nasıl Bulunur?
 
 <center>
     <iframe
