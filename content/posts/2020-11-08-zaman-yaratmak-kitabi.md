@@ -15,8 +15,6 @@ tags:
 
 
 ```
-“Zaman Yaratmak, pratik ve eğlenceli bir kitap...  Dijital dünya aracılığıyla gelen mesajlara yanıt vermede yavaş olmanın zamanımızın kontrolünü ele geçirmenin müthiş bir yolu olduğu ortaya çıkmış bulunuyor.”
-—Harvard Business Review
 
 Google'da çalışan iki çalışanın yazdığı bu kitap zaman yönetimine kafayı takmış kişiler için biçilmiş bir kaftan.
 
