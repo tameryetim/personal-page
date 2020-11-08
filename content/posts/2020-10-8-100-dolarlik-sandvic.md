@@ -1,6 +1,6 @@
 ---
-date: '2020-11-8' 22:20'
-title: 'Girisim Hikayeleri - 100 Dolarlık Sandviç'
+date: '2020-11-8 22:20'
+title: 'Girişim Hikayeleri - 100 Dolarlık Sandviç'
 template: post
 thumbnail: '../thumbnails/youtube.png'
 slug: girisim-hikayeleri-100-dolarlik-sandvic
