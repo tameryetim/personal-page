@@ -40,8 +40,9 @@ export default class Index extends Component {
             href="https://www.superpeer.com/tamer"
             target="_blank"
             rel="noreferrer"
+            style='font-size:22px'
           >
-            Superpeer üzerinde benimle görüşebilirsiniz
+            Superpeer üzerinde görüşme için tıklayınız
           </a>
       
         </p>
