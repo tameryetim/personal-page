@@ -6,8 +6,8 @@ template: page
 
 
 
-+ **Email**： <tameryetim@gmail.com>
+<a href="mailto:tameryetim@gmail.com"> + **Email**</a>
 
-+ **Twitter**： https://www.twitter.com/tameryetim
+<a href='https://www.twitter.com/tameryetim'> + **Twitter**</a>
 
-+ **Youtube**： https://www.youtube.com/channel/UC9tuH9yQk06xWrD9KlPmHfQ
+<a href='https://www.youtube.com/channel/UC9tuH9yQk06xWrD9KlPmHfQ'> + **Youtube**</a>
