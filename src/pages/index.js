@@ -37,11 +37,11 @@ export default class Index extends Component {
 
           <a
             className="button"
-            href="https://tameryetim.substack.com"
+            href="https://www.superpeer.com/tamer"
             target="_blank"
             rel="noreferrer"
           >
-            E-Mail Listesine Kayıt Olun
+            Superpeer üzerinde benimle görüşebilirsiniz
           </a>
       
         </p>
