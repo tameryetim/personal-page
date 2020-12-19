@@ -31,7 +31,7 @@ export default class Index extends Component {
      
         <h3>Merhabalar</h3>
               <p>
-        Ben Tamer, evli ve bir çocuk babası olarak Eskişehir'de yaşıyorum. Commodore 64 dönemlerinden beri yazılım üretiyor, bilgi ve birikimlerimi paylaşmak adına tüm mecralarda yer almaya çalışıyorum.
+        Ben Tamer, Commodore 64 dönemlerinden beri yazılım üretiyor, bilgi ve birikimlerimi paylaşmak adına tüm mecralarda yer almaya çalışıyorum.
         </p>
      <p className="stack-mobile">
 
