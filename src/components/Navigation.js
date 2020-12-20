@@ -40,7 +40,7 @@ export default class Navigation extends Component {
       <nav className={scrolled ? 'nav scroll' : 'nav'}>
       
       <center>
-      <img src='https://www.bossbasketballmanager.com/dosyalar/gif.gif' />
+      <a href='https://www.bossbasketballmanager.com' target='_blank'><img src='https://www.bossbasketballmanager.com/dosyalar/gif.gif' /></a>
       </center>
       
         <div className="nav-container">
