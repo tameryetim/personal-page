@@ -61,7 +61,9 @@ export default class Index extends Component {
         <div className="container front-page">
 
       <center>
-      <a href='https://www.bossbasketballmanager.com' target='_blank'><img src='https://www.bossbasketballmanager.com/dosyalar/gif.gif' style='width:100%; height:'auto' /></a>
+      <a href='https://www.bossbasketballmanager.com' target='_blank'><img src='https://www.bossbasketballmanager.com/dosyalar/gif.gif' style='  max-width: 100%;
+  height: auto;
+  width: auto\9;' /></a>
       </center>
 
 
