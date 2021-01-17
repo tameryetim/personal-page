@@ -10,7 +10,7 @@ import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
 import podcasts from '../../data/podcasts'
-import tamer from '../../content/images/tamers.jpg'
+import tamer from '../../content/images/siyahb.jpg'
 
 
 export default class Index extends Component {
@@ -31,7 +31,9 @@ export default class Index extends Component {
      
         <h3>Merhabalar</h3>
               <p>
-        Ben Tamer, Commodore 64 dönemlerinden beri yazılım üretiyor, bilgi ve birikimlerimi paylaşmak adına tüm mecralarda yer almaya çalışıyorum.
+        Ben 
+
+, Commodore 64 dönemlerinden beri yazılım üretiyor, bilgi ve birikimlerimi paylaşmak adına tüm mecralarda yer almaya çalışıyorum.
         </p>
      <p className="stack-mobile">
 
