@@ -41,7 +41,7 @@ Kar sağlamak üzere icat ettikleri CDO ve benzeri araçların ekonomiye nasıl 
 Bankaların, derecelendirme kuruluşlarının nasıl bir karmaşık yapıda, ne denli hesapsızca yönetildiği,
 Milyonlarca insanın işinin, hayatının ne denli pamuk ipliğine bağlı olduğunu tüm çıplaklığıyla hissediyorsunuz.
  
-İnsanımız bilinçli olmak zorunda. Hepimiz finans uzmanı değiliz, finans eğitimi almadık fakat sadece ülkemizde değil dünyanın dev bankacılık
+İnsanımız bilinçli olmak zorunda. Birçoğumuz finans uzmanı değiliz, finans eğitimi almadık fakat sadece ülkemizde değil dünyanın dev bankacılık
 ekosisteminin nelerden oluştuğu, ister Amerika, ister Çin isterse ülkemizde olsun bu dev yatırım bankaları ve emlak firmalarının ne denli büyük
 işlem ve riskleri kolaylıkla alabildiğinin farkında olursak bireysel harcamalarımıza daha konsantre olabilir ve bu krizlerde zararı minimuma indirgeyebiliriz.
 
