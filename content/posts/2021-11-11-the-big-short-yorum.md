@@ -46,14 +46,19 @@ ekosisteminin nelerden oluştuğu, ister Amerika, ister Çin isterse ülkemizde 
 işlem ve riskleri kolaylıkla alabildiğinin farkında olursak bireysel harcamalarımıza daha konsantre olabilir ve bu krizlerde zararı minimuma indirgeyebiliriz.
 
   
-```
 
+
+  
+  
+  
+  
+  
+  
 * Film Tanıtım Linki IMDB : https://www.imdb.com/title/tt1596363/
   
 * Kitap Tanıtım Linki Kitapyurdu : https://www.kitapyurdu.com/kitap/buyuk-acik-amp-kiyamet-carkinin-icinde/248395.html
   
-
-```  
+ 
 
 
 
