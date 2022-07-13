@@ -11,6 +11,7 @@ import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
 import podcasts from '../../data/podcasts'
 import tamer from '../../content/images/me2.jpg'
+import gifx from '../../content/images/gif.gif'
 
 
 export default class Index extends Component {
@@ -61,7 +62,7 @@ export default class Index extends Component {
         <div className="container front-page">
 
       <center>
-      <a href='https://www.bossbasketballmanager.com' target='_blank'><img className="gifcik" src='https://www.bossbasketballmanager.com/dosyalar/gif.gif'  /></a>
+      <a href='https://tameryetim.com/index.html' target='_blank'>  <img src={gifx} alt="boss" className="gifcik" />></a>
       </center>
 
 
