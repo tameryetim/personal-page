@@ -62,7 +62,7 @@ export default class Index extends Component {
         <div className="container front-page">
 
       <center>
-      <a href='https://tameryetim.com/index.html' target='_blank'>  <img src={gifx} alt="boss" className="gifcik" />></a>
+      <a href='https://tameryetim.com/index.html' target='_blank'>  <img src={gifx} alt="boss" className="gifcik" /></a>
       </center>
 
 
