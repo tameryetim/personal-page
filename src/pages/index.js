@@ -10,7 +10,7 @@ import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
 import podcasts from '../../data/podcasts'
-import tamer from '../../content/images/siyahb.jpg'
+import tamer from '../../content/images/me2.jpg'
 
 
 export default class Index extends Component {
