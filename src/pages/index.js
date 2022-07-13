@@ -10,7 +10,7 @@ import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
 import podcasts from '../../data/podcasts'
-import tamer from '../../content/images/me2.jpg'
+import tamer from '../../content/images/me2.jpeg'
 import gifx from '../../content/images/gif.gif'
 
 
