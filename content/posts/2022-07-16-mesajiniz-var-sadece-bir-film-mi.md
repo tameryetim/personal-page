@@ -23,24 +23,24 @@ Bunu sorduğum bir pisikolog bana belkide filmi değil, filmin sana hissettirdik
 Haklıydı.
 
 
-You have got mail 1998 yapımı şahanenin de ötesinde sıcacık, umut dolu bir film. Spoiler içerdiğinden dolayı filmi izlemediyseniz okumanızı önermem.
+You have got mail 1998 yapımı şahanenin de ötesinde sıcacık, umut dolu bir film. "Spoiler" içerdiğinden dolayı filmi izlemediyseniz okumanızı önermem.
 
 
 Kitap, kahve ve bolca New York sonbaharı manzarası eşliğinde kendinizi niye benim kitap dükkanım yok diye sorgularken buluyorsunuz.
 
 Film iş dünyası açısından birbirine rakip iki tarafın daha önce asla gitmediklerini iddaa ettikleri bir chat odasında yazışmaları sonrası,
-birbirlerinin ruhlarına Aşık oluşlarını konu ediyor.
+birbirlerinin ruhlarına "Aşık" oluşlarını konu ediyor.
 
-Hepimiz öyle değilmiyizdir. Çocukluğumuzdan itibaren bir Hayal kurar ve karşımızdakileri o hayale oturtmaya çalışırız.
-Dış görünüşten şekilden maddiyattan ve dünyevi herşeyden ötede bir Ruh düşlemezmiyiz ?
+Hepimiz öyle değilmiyizdir. Çocukluğumuzdan itibaren bir "Hayal" kurar ve karşımızdakileri o hayale oturtmaya çalışırız.
+Dış görünüşten şekilden maddiyattan ve dünyevi herşeyden ötede bir "Ruh" düşlemezmiyiz ?
 
 Filmde Joe ile Kathleen zaman ile arkadaş olmaya karar verirler, Sonra aralarında şu konuşma geçer
 
 - bazen merak ediyorum...
 + ne?
-- ben Fox mağazasının sahibi olmasaydım ve sen köşedeki dükkanın sahibi olmasaydın ve sen ve ben daha yeni tanışmış olsaydık...
+- ben Fox mağazasının sahibi olmasaydım ve sen köşedeki dükkan'ın sahibi olmasaydın ve sen ve ben daha yeni tanışmış olsaydık...
 + biliyorum.
-- Evet. numaranı isterdim ve seni aramadan önce yirmi dört saat bekleyemezdim ve hey, ne dersin... ya da bir film... ikimiz de yaşayacağımız sürece?
+- Evet. numaranı isterdim ve seni aramadan önce yirmi dört saat bekleyemezdim ve "hey, ne dersin... ya da bir film... ikimiz de yaşayacağımız sürece?"
 - ve sen ve ben asla savaşta olmazdık. ve kavga edeceğimiz tek şey cumartesi gecesi hangi filmi kiralayacağımız olurdu.
 + peki, kim bunun için kavga ediyor?
 - peki, bazı insanlar. biz değil
@@ -53,17 +53,17 @@ Fakat filmin sonlarına doğru NY152 Shopgirl ile tanışmak ister,
 Joe Kathleen ile konuşur ve NY152 yi değil kendisini seçmesini söyler.
 
 Fakat Kathleen bir kere bile görmediği sadece yazıştığı NY152 yi tercih eder ve onunla buluşmaya gider.
-Joenun kariyerine, zenginliğine ve aralarındaki uyumdansa sadece yazışmalarından tanıdığı NY152yi tercih eder.
+Joe'nun kariyerine, zenginliğine ve aralarındaki uyumdansa sadece yazışmalarından tanıdığı NY152'yi tercih eder.
 
 Buluşma yerinde Over the rainbow şarkısı eşliğinde ikiside bir birini görür.
 
-Joe avuç içlerini dışarı doğru çevirip benim işte ,
+Joe avuç içlerini dışarı doğru çevirip "benim işte" ,
 dermiş gibi yürüme sahnesi, o bakışlarındaki tarifi imkansız naiflik biraz suçlu biraz çekingen ama dibine kadar aşık. Aşık... 
 
-Sonra Kathleenin dudaklarından şu sözcükler dökülür. Sen Olmanı İstemiştim, Senin Olmanı O kadar çok istemiştim ki.
+Sonra Kathleen'in dudaklarından şu sözcükler dökülür. "Sen Olmanı İstemiştim", "Senin Olmanı O kadar çok istemiştim ki".
 
 İşte gerçek aşk bu, ne maddiyat, ne göz ne kaş sadece bir ruhu delicesine sevebilmek.
-Filmin bence en can alıcı noktası deli gibi Joe ile olmayı isterken, her açıdan ona tutkunken NY152yi tercih etmesi.
+Filmin bence en can alıcı noktası deli gibi Joe ile olmayı isterken, her açıdan ona tutkunken NY152'yi tercih etmesi.
 
 Bugün tekrardan bu filmi izledim, tekrardan bu hissiyata büründüm.
 
@@ -75,4 +75,3 @@ kalbinizden, ruhunuzdan başka ihtimali olmayan biri olması gerekmez mi?
 
 </center>
 
-<iframe width=560 height=315 src=https://www.youtube.com/embed/N9Gby31CJrA title=YouTube video player frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe>
