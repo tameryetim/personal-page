@@ -27,7 +27,7 @@ You have got mail 1998 yapımı şahanenin de ötesinde sıcacık, umut dolu bir
 
 Kitap, kahve ve bolca New York sonbaharı manzarası eşliğinde kendinizi niye benim kitap dükkanım yok diye sorgularken buluyorsunuz.
 
-Film iş dünyası açısından birbirine rakip iki tarafın daha önce asla gitmediklerini iddaa ettikleri bir chat odasında yazışmaları sonrası,
+Film iş dünyası açısından birbirine rakip iki tarafın daha önce asla gitmediklerini iddaa ettikleri i chat odasında yazışmaları sonrası,
 birbirlerinin ruhlarına "Aşık" oluşlarını konu ediyor.
 
 Hepimiz öyle değilmiyizdir. Çocukluğumuzdan itibaren bir "Hayal" kurar ve karşımızdakileri o hayale oturtmaya çalışırız.
@@ -54,10 +54,18 @@ Aralarında şu konuşma geçer ;
 
 <pre>- (Joe) bazen merak ediyorum...</pre>
 + neyi?
-<pre>- ben Fox mağazasının sahibi olmasaydım ve sen köşedeki dükkan'ın sahibi olmasaydın ve sen ve ben daha yeni tanışmış olsaydık...</pre>
+<pre>- ben Fox mağazasının sahibi olmasaydım ve sen köşedeki dükkan'ın sahibi olmasaydın
+ve sen ve ben daha yeni tanışmış olsaydık...</pre>
 + biliyorum.
-<pre>- Evet. numaranı isterdim ve seni aramadan önce yirmi dört saat bekleyemezdim ve "hey, ne dersin... ya da bir film... ikimiz de yaşayacağımız sürece?"</pre>
-<pre>- ve sen ve ben asla savaşta olmazdık. ve kavga edeceğimiz tek şey cumartesi gecesi hangi filmi kiralayacağımız olurdu.</pre>
+<pre>- Evet. numaranı isterdim ve seni aramadan önce 
+yirmi dört saat bekleyemezdim ve 
+"hey, ne dersin... ya da bir film... 
+ikimiz de yaşayacağımız sürece?"</pre>
+
+<pre>- ve sen ve ben asla savaşta olmazdık. 
+ve kavga edeceğimiz tek şey cumartesi gecesi hangi
+filmi kiralayacağımız olurdu.</pre>
+
 + peki, kim bunun için kavga ediyor?
 <pre>- peki, bazı insanlar. biz değil</pre>
 + biz asla.
@@ -74,19 +82,25 @@ Fakat Kathleen bir kere bile görmediği sadece yazıştığı NY152 yi tercih e
 
 Joe'nun kariyerine, zenginliğine ve aralarındaki uyumdansa sadece yazışmalarından tanıdığı NY152'yi tercih eder.
 
-Buluşma yerinde Over the rainbow şarkısı eşliğinde ikiside bir birini görür.
+Buluşma yerinde Over the rainbow şarkısı eşliğinde ikiside birbirlerini görürler.
 
 Joe avuç içlerini dışarı doğru çevirip "benim işte" ,
-dermiş gibi yürüme sahnesi, o bakışlarındaki tarifi imkansız naiflik biraz suçlu biraz çekingen ama dibine kadar aşık. Aşık... 
+dermiş gibi yürümeye başlar, 
+o bakışlarındaki tarifi imkansız naiflik,
+biraz suçlu,
+biraz çekingen ama dibine kadar aşık. 
+Aşık... 
 
-Sonra Kathleen'in dudaklarından şu sözcükler dökülür. "Sen Olmanı İstemiştim", "Senin Olmanı O kadar çok istemiştim ki".
+Sonra Kathleen'in dudaklarından şu sözcükler döküldüğünü görürüz. 
+
+"Sen Olmanı İstemiştim", 
+"Senin Olmanı O kadar çok istemiştim ki".
 
 İşte gerçek aşk bu, ne maddiyat, ne göz ne kaş sadece bir ruhu delicesine sevebilmek.
-Filmin bence en can alıcı noktası deli gibi Joe ile olmayı isterken, her açıdan ona tutkunken NY152'yi tercih etmesi.
+Filmin bence en can alıcı noktası deli gibi Joe ile olmayı isterken, 
+her açıdan ona tutkunken NY152'yi tercih etmesi.
 
 O yüzden gerçek aşkın sizi ruhunuzu sarıp sarmalayacak, buruş buruş elleriniz olsada, ufacık bir kulübede olsanızda, bir sarayda yaşasanızda,
 kalbinizden, ruhunuzdan başka ihtimali olmayan biri olması gerekmez mi?
-
-İnsanlar ne yazıkki hoşlandıkları bedenlere Aşk adını takmışlar, bir ruhun peşinde koşanlar ise kitaplarındaki satır aralarında veya böyle filmlerin bazı sahnelerinde kaybolmak zorunda.
 
 Bugün tekrardan bu filmi izledim, tekrardan bu hissiyata büründüm. Etrafımda kitaplar, elimde kahve gözlerimi yumduğumda sanki Newyork'ta 152.ci caddenin köşesindeyim.
