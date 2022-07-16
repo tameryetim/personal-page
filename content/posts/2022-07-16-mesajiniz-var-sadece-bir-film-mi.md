@@ -10,7 +10,6 @@ tags:
   - Film
   - Aşk
 ---
-<center>
 
 
 
@@ -34,25 +33,45 @@ birbirlerinin ruhlarına "Aşık" oluşlarını konu ediyor.
 Hepimiz öyle değilmiyizdir. Çocukluğumuzdan itibaren bir "Hayal" kurar ve karşımızdakileri o hayale oturtmaya çalışırız.
 Dış görünüşten şekilden maddiyattan ve dünyevi herşeyden ötede bir "Ruh" düşlemezmiyiz ?
 
-Filmde Joe ile Kathleen zaman ile arkadaş olmaya karar verirler, Sonra aralarında şu konuşma geçer
+Filmde Joe ile Kathleen birbirlerine "Düşman" seviyesinde olan iki rakip kitapçı olarak karşımıza çıkıyorlar.
+Joe çocuk kitapları mağazası işleten Kathleen'in köşesine çok büyük AVM konseptinde bir kitapçı açar.
 
-- bazen merak ediyorum...
-+ ne?
-- ben Fox mağazasının sahibi olmasaydım ve sen köşedeki dükkan'ın sahibi olmasaydın ve sen ve ben daha yeni tanışmış olsaydık...
+İkisininde hayatında biri olmasına rağmen ikiside bir chat odasında farkında olmadan birbirleriyle konuşurlar.
+
+Konuştukları her satırda birbirlerine deli gibi tutulurlar. Neticesinde tanışmak üzere sözleşirler ve buluşma anı geldiğinde 
+
+Joe buluşacağı kişinin Kathleen olduğunu görünce ona gerçeği söylemekten imtina eder çünkü gerçek bir savaş halindedirler ve Kathleen onu çok kırmıştır.
+
+Joe'nun sahip olduğu Fox kitapları mağazası zamanla Kahhleen'in işlerini baltalar ve Kahhleen mağazasını kapatmak zorunda kalır.
+
+İkiside zamanla sevgililerinden ayrılırlar ve neticesinde fiziki olarak birbirleriyle arkadaş olurlar.
+
+Joe chat odasında tanıştığı Kathleen'in Shopgirl olduğunu bilirken Kathleen konuştuğu kişinin NY152 olduğunu bilmemektedir.
+
+Aralarındaki arkadaşlık zaman içerisinde ilerler ve birbirlerinden etkilenecek noktaya kadar gelir.
+
+Aralarında şu konuşma geçer ;
+
+<pre>- (Joe) bazen merak ediyorum...</pre>
++ neyi?
+<pre>- ben Fox mağazasının sahibi olmasaydım ve sen köşedeki dükkan'ın sahibi olmasaydın ve sen ve ben daha yeni tanışmış olsaydık...</pre>
 + biliyorum.
-- Evet. numaranı isterdim ve seni aramadan önce yirmi dört saat bekleyemezdim ve "hey, ne dersin... ya da bir film... ikimiz de yaşayacağımız sürece?"
-- ve sen ve ben asla savaşta olmazdık. ve kavga edeceğimiz tek şey cumartesi gecesi hangi filmi kiralayacağımız olurdu.
+<pre>- Evet. numaranı isterdim ve seni aramadan önce yirmi dört saat bekleyemezdim ve "hey, ne dersin... ya da bir film... ikimiz de yaşayacağımız sürece?"</pre>
+<pre>- ve sen ve ben asla savaşta olmazdık. ve kavga edeceğimiz tek şey cumartesi gecesi hangi filmi kiralayacağımız olurdu.</pre>
 + peki, kim bunun için kavga ediyor?
-- peki, bazı insanlar. biz değil
+<pre>- peki, bazı insanlar. biz değil</pre>
 + biz asla.
-- Keşke.
+<pre>- Keşke.</pre>
 
-Zamanla Joe ve Kathleen anlar ki birbirleri için yaratılmışlardır. 
-Fakat filmin sonlarına doğru NY152 Shopgirl ile tanışmak ister,
+
+Zamanla anlarlar ki Joe ve Kathleen anlar ki birbirleri için yaratılmışlardır. 
+
+Filmin sonlarına doğru NY152 Shopgirl ile tanışmak ister,
 
 Joe Kathleen ile konuşur ve NY152 yi değil kendisini seçmesini söyler.
 
 Fakat Kathleen bir kere bile görmediği sadece yazıştığı NY152 yi tercih eder ve onunla buluşmaya gider.
+
 Joe'nun kariyerine, zenginliğine ve aralarındaki uyumdansa sadece yazışmalarından tanıdığı NY152'yi tercih eder.
 
 Buluşma yerinde Over the rainbow şarkısı eşliğinde ikiside bir birini görür.
@@ -65,13 +84,9 @@ Sonra Kathleen'in dudaklarından şu sözcükler dökülür. "Sen Olmanı İstem
 İşte gerçek aşk bu, ne maddiyat, ne göz ne kaş sadece bir ruhu delicesine sevebilmek.
 Filmin bence en can alıcı noktası deli gibi Joe ile olmayı isterken, her açıdan ona tutkunken NY152'yi tercih etmesi.
 
-Bugün tekrardan bu filmi izledim, tekrardan bu hissiyata büründüm.
-
 O yüzden gerçek aşkın sizi ruhunuzu sarıp sarmalayacak, buruş buruş elleriniz olsada, ufacık bir kulübede olsanızda, bir sarayda yaşasanızda,
 kalbinizden, ruhunuzdan başka ihtimali olmayan biri olması gerekmez mi?
 
 İnsanlar ne yazıkki hoşlandıkları bedenlere Aşk adını takmışlar, bir ruhun peşinde koşanlar ise kitaplarındaki satır aralarında veya böyle filmlerin bazı sahnelerinde kaybolmak zorunda.
 
-
-</center>
-
+Bugün tekrardan bu filmi izledim, tekrardan bu hissiyata büründüm. Etrafımda kitaplar, elimde kahve gözlerimi yumduğumda sanki Newyork'ta 152.ci caddenin köşesindeyim.
