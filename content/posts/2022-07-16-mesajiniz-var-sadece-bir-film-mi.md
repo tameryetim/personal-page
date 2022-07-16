@@ -40,7 +40,7 @@ Joe çocuk kitapları mağazası işleten Kathleen'in köşesine çok büyük AV
 
 Konuştukları her satırda birbirlerine deli gibi tutulurlar. Neticesinde tanışmak üzere sözleşirler ve buluşma anı geldiğinde 
 
-Joe buluşacağı kişinin Kathleen olduğunu görünce ona gerçeği söylemekten imtina eder çünkü gerçek bir savaş halindedirler ve Kathleen onu çok kırmıştır.
+Joe buluşacağı kişinin Kathleen olduğunu görünce ona gerçeği söylemekten imtina eder çünkü gerçek bir savaş halindedirler ve Kathleen onu her hareketiyle yaralamış ve yerin dibine sokmuştur.
 
 Joe'nun sahip olduğu Fox kitapları mağazası zamanla Kahhleen'in işlerini baltalar ve Kahhleen mağazasını kapatmak zorunda kalır.
 
@@ -57,10 +57,14 @@ Aralarında şu konuşma geçer ;
 <pre>- ben Fox mağazasının sahibi olmasaydım ve sen köşedeki dükkan'ın sahibi olmasaydın
 ve sen ve ben daha yeni tanışmış olsaydık...</pre>
 + biliyorum.
-<pre>- Evet. numaranı isterdim ve seni aramadan önce 
+
+<pre>
+- Evet. numaranı isterdim ve seni aramadan önce 
 yirmi dört saat bekleyemezdim ve 
-"hey, ne dersin bir yemek bir içki ya da bir film... 
-ikimiz de yaşayacağımız sürece?"</pre>
+"hey, ne dersin 
+bir yemek yiyelim mi veya bir içki ya da bir film... 
+ikimiz de yaşayacağımız sürece?"
+</pre>
 
 <pre>- ve sen ve ben asla savaşta olmazdık. 
 ve kavga edeceğimiz tek şey cumartesi gecesi hangi
@@ -76,13 +80,14 @@ Zamanla anlarlar ki Joe ve Kathleen anlar ki birbirleri için yaratılmışlard�
 
 Filmin sonlarına doğru NY152 Shopgirl ile tanışmak ister,
 
-Joe Kathleen ile konuşur ve NY152 yi değil kendisini seçmesini söyler.
+Joe Kathleen ile arkadaşça görünsede çok önemli bir konuşma yapar ve hiç tanımadığı NY152'yi değil kendisini tercih etmesini söyler.
 
-Fakat Kathleen bir kere bile görmediği sadece yazıştığı NY152 yi tercih eder ve onunla buluşmaya gider.
-
+Fakat Kathleen bir kere bile görmediği sadece yazıştığı NY152'yi tercih eder ve onunla buluşmaya gider.
 Joe'nun kariyerine, zenginliğine ve aralarındaki uyumdansa sadece yazışmalarından tanıdığı NY152'yi tercih eder.
 
-Buluşma yerinde Over the rainbow şarkısı eşliğinde ikiside birbirlerini görürler.
+Buluşma zamanı gelir
+
+Over the rainbow şarkısı çalarken ikiside birbirlerini görürler.
 
 <pre>
 Joe avuç içlerini dışarı doğru çevirip "benim işte" ,
@@ -100,11 +105,15 @@ Sonra Kathleen'in dudaklarından şu sözcükler döküldüğünü görürüz.
 "Senin Olmanı O kadar çok istemiştim ki".
 </pre>
 
-İşte gerçek aşk bu, ne maddiyat, ne göz ne kaş sadece bir ruhu delicesine sevebilmek.
+İşte gerçek aşk bu, 
+ne maddiyat, ne göz ne kaş sadece bir ruhu delicesine sevebilmek.
+
 Filmin bence en can alıcı noktası deli gibi Joe ile olmayı isterken, 
 her açıdan ona tutkunken NY152'yi tercih etmesi.
 
 O yüzden gerçek aşkın sizi ruhunuzu sarıp sarmalayacak, buruş buruş elleriniz olsada, ufacık bir kulübede olsanızda, bir sarayda yaşasanızda,
 kalbinizden, ruhunuzdan başka ihtimali olmayan biri olması gerekmez mi?
 
-Bugün tekrardan bu filmi izledim, tekrardan bu hissiyata büründüm. Etrafımda kitaplar, elimde kahve gözlerimi yumduğumda sanki Newyork'ta 152.ci caddenin köşesindeyim.
+Bugün tekrardan bu filmi izledim, tekrardan bu hissiyatlar kapladı her yerimi. 
+
+Etrafımda kitapların kokusu, elimde kahve gözlerimi yumduğumda sanki Newyork'ta 152.ci caddenin köşesindeyim.
