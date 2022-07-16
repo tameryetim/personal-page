@@ -67,7 +67,7 @@ ve kavga edeceğimiz tek şey cumartesi gecesi hangi
 filmi kiralayacağımız olurdu.</pre>
 
 + peki, kim bunun için kavga ediyor?
-<pre>- peki, bazı insanlar. biz değil</pre>
+<pre>- tanıdığım bazı insanlar var ama biz değil</pre>
 + biz asla.
 <pre>- Keşke.</pre>
 
