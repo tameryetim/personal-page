@@ -52,10 +52,17 @@ Aralarındaki arkadaşlık zaman içerisinde ilerler ve birbirlerinden etkilenec
 
 Aralarında şu konuşma geçer ;
 
-<pre>- (Joe) bazen merak ediyorum...</pre>
+<pre>
+- (Joe) bazen merak ediyorum...
+</pre>
+
 + neyi?
-<pre>- ben Fox mağazasının sahibi olmasaydım ve sen köşedeki dükkan'ın sahibi olmasaydın
-ve sen ve ben daha yeni tanışmış olsaydık...</pre>
+
+<pre>
+- ben Fox mağazasının sahibi olmasaydım ve sen köşedeki dükkan'ın sahibi olmasaydın
+ve sen ve ben daha yeni tanışmış olsaydık...
+</pre>
+
 + biliyorum.
 
 <pre>
@@ -66,14 +73,23 @@ bir yemek yiyelim mi veya bir içki ya da bir film...
 ikimiz de yaşayacağımız sürece?"
 </pre>
 
-<pre>- ve sen ve ben asla savaşta olmazdık. 
+<pre>
+- ve sen ve ben asla savaşta olmazdık. 
 ve kavga edeceğimiz tek şey cumartesi gecesi hangi
-filmi kiralayacağımız olurdu.</pre>
+filmi kiralayacağımız olurdu.
+</pre>
 
 + peki, kim bunun için kavga ediyor?
-<pre>- tanıdığım bazı insanlar var ama biz değil</pre>
+
+<pre>
+- tanıdığım bazı insanlar var ama biz değil
+</pre>
+
 + biz asla.
-<pre>- Keşke.</pre>
+
+<pre>
+- Keşke.
+</pre>
 
 
 Zamanla anlarlar ki Joe ve Kathleen anlar ki birbirleri için yaratılmışlardır. 
