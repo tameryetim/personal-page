@@ -59,7 +59,7 @@ ve sen ve ben daha yeni tanışmış olsaydık...</pre>
 + biliyorum.
 <pre>- Evet. numaranı isterdim ve seni aramadan önce 
 yirmi dört saat bekleyemezdim ve 
-"hey, ne dersin... ya da bir film... 
+"hey, ne dersin bir yemek bir içki ya da bir film... 
 ikimiz de yaşayacağımız sürece?"</pre>
 
 <pre>- ve sen ve ben asla savaşta olmazdık. 
