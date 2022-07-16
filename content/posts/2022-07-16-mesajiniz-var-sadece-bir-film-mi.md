@@ -84,17 +84,21 @@ Joe'nun kariyerine, zenginliğine ve aralarındaki uyumdansa sadece yazışmalar
 
 Buluşma yerinde Over the rainbow şarkısı eşliğinde ikiside birbirlerini görürler.
 
+<pre>
 Joe avuç içlerini dışarı doğru çevirip "benim işte" ,
 dermiş gibi yürümeye başlar, 
 o bakışlarındaki tarifi imkansız naiflik,
 biraz suçlu,
 biraz çekingen ama dibine kadar aşık. 
 Aşık... 
+</pre>
 
 Sonra Kathleen'in dudaklarından şu sözcükler döküldüğünü görürüz. 
 
+<pre>
 "Sen Olmanı İstemiştim", 
 "Senin Olmanı O kadar çok istemiştim ki".
+</pre>
 
 İşte gerçek aşk bu, ne maddiyat, ne göz ne kaş sadece bir ruhu delicesine sevebilmek.
 Filmin bence en can alıcı noktası deli gibi Joe ile olmayı isterken, 
