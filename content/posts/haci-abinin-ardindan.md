@@ -1,6 +1,6 @@
 ---
 date: '2022-07-22 12:10'
-title: 'Hacı abinin ardından'
+title: 'Başbörekçi Hacı abinin ardından'
 template: post
 thumbnail: '../thumbnails/yazi.png'
 slug: haci-abinin-ardindan
@@ -14,13 +14,13 @@ tags:
 
 Bugün yakınlarda babası vefat etmiş bir dostumu ziyarete gittim.
 
-Eskişehir'in en eski esnaflarından Hacı Mehmet Başbörekçi abi vefat etmişti ve daha yeni haberim olmuştu, 
-cenazesine gidemediğim için çok üzülsem de bugün taziyeye gittim.
+Eskişehir'in en eski esnaflarından Hacı Mehmet Başbörekçi abi vefat etmişti ve daha yeni haberim olmuştu,
+Babam hacı abi vefat etmiş duydun mu deyince inanılmaz üzülmüştüm cenazesine gidemediğim için, bu sebeple ilk iş olarak taziyeye gittim hemen.
 
-Arkadaşım öylesine bir tebessümle "Rahmana kavuştu babaefendimiz" dedi ki,
+Evladı öylesine bir tebessümle "Rahmana kavuştu babaefendimiz" dedi ki,
 İnanılmaz bir tebessüm, inanılmaz bir naiflik.
+Öyle bir baba böyle bir evlat yetiştirir işte.
 
-Yüreğim bambaşka oldu. 
 Hiçbir kelime ile anlatamayacağım hisler bütünü kapladı her yanımı.
 
 Geçtiğimiz bayram öncesinde hacı abiye rastlamıştım.
@@ -40,8 +40,9 @@ Bundan uzun yıllar sonra bile birileri dünyada böyle temiz insanların,
 böyle yanında bulunduğunuzda tebessümünden, naifliğinden mahçubiyet duyabileceğiniz insanlarında bu dünyada yaşadığını bilmesini 
 istediğimden dolayı bu satırları karaladım.
 
-Bu sahte ve bomboş dünyada ölümümüzden sonra bir insan bile bizi böyle anabilir mi, 
+Bu sahte ve bomboş dünyada ölümümüzden sonra bir insan bile bizi böyle anabilir mi böyle izler bırakabilirmiyiz ?
 
-böyle izler bırakabilirmiyiz ?
+Varlığımızda, yokluğumuzda etrafımızdaki herkesin kalbini karartacak biri mi olacaksınız bu dünyada, yoksa hacı abi gibi insanlar sizi hatırladığında 
+tebessüm ettirecek biri mi ?
 
 İşte mesele bu.
