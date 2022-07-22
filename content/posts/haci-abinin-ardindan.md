@@ -1,9 +1,9 @@
 ---
 date: '2022-07-22 12:10'
-title: 'Sadece bir fotoğraf ne anlatır insana?'
+title: 'Hacı abinin ardından'
 template: post
 thumbnail: '../thumbnails/yazi.png'
-slug: sprint-kitap
+slug: haci-abinin-ardindan
 categories:
   - Yazı
 tags:
@@ -40,6 +40,8 @@ Bundan uzun yıllar sonra bile birileri dünyada böyle temiz insanların,
 böyle yanında bulunduğunuzda tebessümünden, naifliğinden mahçubiyet duyabileceğiniz insanlarında bu dünyada yaşadığını bilmesini 
 istediğimden dolayı bu satırları karaladım.
 
-Bu sahte ve bomboş dünyada ölümümüzden sonra bir insan bile bizi böyle anabilir mi, böyle izler bırakabilirmiyiz ?
+Bu sahte ve bomboş dünyada ölümümüzden sonra bir insan bile bizi böyle anabilir mi, 
+
+böyle izler bırakabilirmiyiz ?
 
 İşte mesele bu.
