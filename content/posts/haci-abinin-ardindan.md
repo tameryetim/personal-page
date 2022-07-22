@@ -17,16 +17,17 @@ Bugün yakınlarda babası vefat etmiş bir dostumu ziyarete gittim.
 Eskişehir'in en eski esnaflarından Hacı Mehmet Başbörekçi abi vefat etmişti ve daha yeni haberim olmuştu, 
 cenazesine gidemediğim için çok üzülsem de bugün taziyeye gittim.
 
-Öylesine bir tebessümle "Rahmana kavuştu babaefendimiz" dedi ki,
+Arkadaşım öylesine bir tebessümle "Rahmana kavuştu babaefendimiz" dedi ki,
 İnanılmaz bir tebessüm, inanılmaz bir naiflik.
 
-Yüreğim bambaşka oldu. Hiçbir kelime ile anlatamayacağım hisler kapladı her yanımı.
+Yüreğim bambaşka oldu. 
+Hiçbir kelime ile anlatamayacağım hisler bütünü kapladı her yanımı.
 
 Geçtiğimiz bayram öncesinde hacı abiye rastlamıştım.
 tekerlekli sandalyesinin önünde ufak bir örtü vardı, çocukluğunu, gençliğini, 
 ömrünü geçirdiği dükkanın önünde uzaklara bakıyordu.
 
-Ellerinden öpmüş, helallik istemiştim.
+Ellerinden öpmüş, duasını istemiştim.
 
 Adaletli, efendi, hak ve hukuka riayet eden, dürüst ve ince kalpli bir adamdı hacı abi. 
 Yüzüne baktığınızda içinizi huzur kaplardı.
