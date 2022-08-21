@@ -13,8 +13,10 @@ tags:
 <center>
 
   
-https://www.youtube.com/embed/ubmUNbUcZpM
+
   
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ubmUNbUcZpM/0.jpg)](https://www.youtube.com/watch?v=ubmUNbUcZpM)
+
 
 ```
 La Tahzen!
