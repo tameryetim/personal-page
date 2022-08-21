@@ -12,11 +12,6 @@ tags:
 ---
 <center>
 
-  
-
-  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ubmUNbUcZpM/0.jpg)](https://www.youtube.com/watch?v=ubmUNbUcZpM)
-
 
 ```
 La Tahzen!
@@ -84,8 +79,88 @@ Dua ederken O'na kırık bir gönülle el kaldır.
 Çünkü Allah'ın merhamet ve ihsanı, gönlü kırık kişiye doğru uçar.
 Sopayla kilime vuranın gayesi, kilimi dövmek değil, tozu kovmaktır.
 Allah tozunu alıyor diye, niye kederlenirsin, Ey can?
+  
+  
+Lâ tahzen!
+Bir şey olmuyorsa:
+Ya daha iyisi olacağı için,
+Ya da gerçekten
+olmaması gerektiği için olmuyordur.
+Şu uçan kuşlara bak!
+Ne ekerler, ne biçerler!..
+Onların rızkına kefil olan Allah;
+seni mi ihmal edecek sanırsın!
+Yeter ki sen istemeyi bil!..
+
+
+Belalar sağanak yağmurlar gibi yağar.
+
+Ancak başını ona tutabilenler
+aşk kaydına geçerler.
+Belâ yolunda muayyen bir menzildir âşık.
+Her nereden gam kervanı gelse de.
+Aşk derdinde olan kişi;
+Baş derdinde değildir.
+Yapılma, yıkılmadadır;
+Topluluk, dağınıklıkta;
+Düzeltme, kırılmada;
+Murat, muratsızlıktadır;
+Varlık, yoklukta gizlidir!..
+
+Ne kötüdür insanın aklıyla
+
+yüreği arasında çaresiz kalması.
+Ne kötüdür zamanın bir an kadar yakın,
+Bir asır kadar uzak olması.
+Ve bilir misin?
+Ne acıdır insanın
+bildiğini anlatamaması..
+“Ben” deyip susması!..
+“Sen” deyip ağlamaklı olması!..
+
+
+Eğer sen Hak yolunda yürürsen,
+
+senin yolunu açar, kolaylaştırırlar.
+Eğer Hakk”ın varlığında yok olursan,
+seni gerçek varlığa döndürürler.
+Benlikten kurtulursan
+o kadar büyürsün ki âleme sığmazsın.
+İşte o zaman
+seni sana, sensiz gösterirler.
+
+
+Sevginin diğer bir adı da sabırdır:
+
+Açlığa sabredersin adı “oruç” olur.
+Acıya sabredersin adı “metanet” olur.
+İnsanlara sabredersin
+adı “hoşgörü” olur.
+Dileğe sabredersin adı “dua” olur.
+Duygulara sabredersin
+adı “gözyaşı” olur.
+Özleme sabredersin adı “hasret” olur.
+Sevgiye sabredersin adı “Aşk” olur!..
+
+
+Ne istersem ben Mevlâ’dan isterim.
+
+Verirse yüceliğidir.
+Vermezse İmtihanımdır!..
+Allah’tan bir şey istersen:
+Kapı Açılır, sen Yeterki Vurmayı Bil!..
+Ne Zaman dersen bilemem ama,
+Açılmaz diye umutsuz olma,
+Yeterki O Kapıda Durmayı Bil!..
 
 ```
 
+  
 
+  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ubmUNbUcZpM/0.jpg)](https://www.youtube.com/watch?v=ubmUNbUcZpM)
+
+
+  
+  
 </center>
