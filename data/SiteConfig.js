@@ -20,6 +20,10 @@ const config = {
   // userEmail: '',
   // userTwitter: '',
   menuLinks: [
+       {
+      name: 'Projelerm',
+      link: 'https://www.tameryetim.com',
+    },
     {
       name: 'İçerikler',
       link: '/blog/',
