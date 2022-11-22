@@ -18,7 +18,7 @@ const config = {
   googleAnalyticsID: 'UA-48316511-1',
   // userName: '',
   // userEmail: '',
-  // userTwitter: '',
+  //  userTwitter: '',
   menuLinks: [
        {
       name: 'Projelerm',
