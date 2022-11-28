@@ -3,7 +3,8 @@ import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../layout'
 import PostListing from '../components/PostListing'
-import config from '../../data/SiteConfig'
+import config from '../../data/SiteConfig' 
+
 
 export default class CategoryTemplate extends Component {
   render() {
@@ -44,7 +45,7 @@ export const pageQuery = graphql`
             categories
             thumbnail {
               childImageSharp {
-                fixed(width: 150, height: 150) {
+                fixed(width: 155, height: 150) {
                   ...GatsbyImageSharpFixed
                 }
               }
