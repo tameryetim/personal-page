@@ -13,7 +13,7 @@ const config = {
   // dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'YYYY-MM-DD',
   siteDescription:
-    'Hello, this\'s Tamer Yetim.',
+    'Hello,  this\'s Tamer Yetim.',
   siteRss: '/rss.xml',
   googleAnalyticsID: 'UA-48316511-1',
   // userName: '',
@@ -21,7 +21,7 @@ const config = {
   //  userTwitter: '',
   menuLinks: [
        {
-      name: 'Projelerm',
+      name: 'Projelerim',
       link: 'https://www.tameryetim.com',
     },
     {
